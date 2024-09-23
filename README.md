@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there! 
+
+Soon update...
+ - 📚 Polytechnic University of Turin
+ - 💻 Computer Engineering
+ - ✅ [My HackerRank](https://www.hackerrank.com/profile/thedanicode24)
+
+
+## Soon update 🔄
+**...**
+
+$$
+e^{i\pi} + 1 = 0
+$$
+
+
