@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Soon update...
  - 📚 Polytechnic University of Turin
  - 💻 Computer Engineering
- - ✅ [My HackerRank](https://www.hackerrank.com/profile/thedanicode24)
+ - ✅ [My HackerRank profile](https://www.hackerrank.com/profile/thedanicode24)
 
 
 ## Soon update 🔄
