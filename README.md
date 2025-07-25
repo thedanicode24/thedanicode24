@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🏒 Toronto Maple Leafs ⚾ Toronto Blue Jays 🏈 San Francisco 49ers & Toronto Argonauts
 - 📺 Free time: TV series, movies and pro wrestling
 
-## 🔧 Skills & Interests 📚
+### 🔧 Skills & Interests 📚
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8A2BE2?style=for-the-badge&logo=gnupg&logoColor=white)
 
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thedanicode24)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/thedanicode24)  
