@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📚 I love learning about **Machine Learning**, **Deep Learning**, **Artificial Intelligence**, **NLP**, **Computer Vision**, and **Big Data**  
 - 🛡️ I'm also curious about **Cybersecurity**, and already comfortable using **Linux** (Long live Linux! 🐧)  
 - 💡 I'm always open to learning new things and exploring new technologies
-- Die-hard fan: 🏒 Toronto Maple Leafs, ⚾ Toronto Blue Jays, 🏈 San Francisco 49ers, Toronto Argonauts
+- 🏒 Toronto Maple Leafs ⚾ Toronto Blue Jays 🏈 San Francisco 49ers & Toronto Argonauts
 
 ## 🔧 Skills & Interests 📚
 
