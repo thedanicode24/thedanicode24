@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Important-orange?style=for-the-badge&logo=code&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white)
