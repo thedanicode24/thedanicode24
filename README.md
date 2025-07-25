@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Algorithms](https://img.shields.io/badge/Algorithms-Important-orange?style=for-the-badge&logo=code&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/AI-111111?style=for-the-badge&logo=probot&logoColor=white)
