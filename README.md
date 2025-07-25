@@ -28,20 +28,22 @@ Here are some ideas to get you started:
 ### 🔧 Skills & Interests 📚
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Algorithms](https://img.shields.io/badge/Algorithms-Important-orange?style=for-the-badge&logo=code&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-Expert-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/AI-111111?style=for-the-badge&logo=probot&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-ff4088?style=for-the-badge&logo=fastapi&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0078D4?style=for-the-badge&logo=opencv&logoColor=white)
-![Big Data](https://img.shields.io/badge/Big%20Data-f57c00?style=for-the-badge&logo=apachespark&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8A2BE2?style=for-the-badge&logo=gnupg&logoColor=white)
+
+![Algorithms](https://img.shields.io/badge/Algorithms-ff69b4?style=for-the-badge&logo=algolia&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-4caf50?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-f7931e?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-ff6f61?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/AI-008080?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/NLP-673ab7?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-3f51b5?style=for-the-badge)
+![Big Data](https://img.shields.io/badge/Big%20Data-ef6c00?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-ff5722?style=for-the-badge)
+
 
 
 ### 📫 Let's Connect
