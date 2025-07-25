@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Algorithms](https://img.shields.io/badge/Algorithms-ff69b4?style=for-the-badge&logo=algolia&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-4caf50?style=for-the-badge)
@@ -42,6 +40,8 @@ Here are some ideas to get you started:
 ![Natural Language Processing](https://img.shields.io/badge/NLP-673ab7?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-3f51b5?style=for-the-badge)
 ![Big Data](https://img.shields.io/badge/Big%20Data-ef6c00?style=for-the-badge)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-ff5722?style=for-the-badge)
 
 
