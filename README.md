@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Important-orange?style=for-the-badge&logo=code&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Expert-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/AI-111111?style=for-the-badge&logo=probot&logoColor=white)
