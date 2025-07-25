@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ---
 
 $$
-e^{i\pi} + 1 = 0
+\displaystyle e^{i\pi} + 1 = 0
 $$
 
 
