@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 🛡️ I'm also curious about **Cybersecurity**, and already comfortable using **Linux** (Long live Linux! 🐧)  
 - 💡 I'm always open to learning new things and exploring new technologies
 - 🏒 Toronto Maple Leafs ⚾ Toronto Blue Jays 🏈 San Francisco 49ers & Toronto Argonauts
+- 📺 Free time: TV series, movies and pro wrestling
 
 ## 🔧 Skills & Interests 📚
 
