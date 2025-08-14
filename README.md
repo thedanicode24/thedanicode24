@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 
-### 📫 Let's Connect
+### 📫 Find me!
 
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thedanicode24)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/thedanicode24)  
